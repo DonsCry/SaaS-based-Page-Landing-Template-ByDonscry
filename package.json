@@ -1,0 +1,35 @@
+{
+  "name": "techflow-platform",
+  "version": "1.0.0",
+  "description": "Modern SaaS Landing Page Platform - TechFlow",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "dev": "npx http-server -p 8000 -o",
+    "build": "echo 'Ready for production'",
+    "serve": "npx http-server"
+  },
+  "keywords": [
+    "saas",
+    "landing-page",
+    "modern",
+    "responsive",
+    "ai",
+    "platform"
+  ],
+  "author": "TechFlow Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DonsCry/techflow-platform"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "last 2 Safari versions",
+    "last 2 Edge versions"
+  ]
+}

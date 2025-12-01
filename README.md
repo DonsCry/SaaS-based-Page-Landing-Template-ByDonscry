@@ -1,4 +1,24 @@
 # 🚀 TechFlow - Platform SaaS Modern
+<!-- TECH STACK -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+<!-- QUALITY -->
+![Responsive](https://img.shields.io/badge/Responsive-Yes-00b894?style=flat)
+![Dashboard](https://img.shields.io/badge/UI-Dashboard-0984e3?style=flat)
+![Charts](https://img.shields.io/badge/Charts-Enabled-6c5ce7?style=flat)
+
+<!-- STATUS -->
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)
+![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat)
+![Last Update](https://img.shields.io/badge/Updated-Active-success?style=flat)
+
+<!-- LICENSE -->
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/DonsCry/techflow-platform)](https://github.com/DonsCry/techflow-platform)
@@ -258,3 +278,4 @@ Jika ada pertanyaan atau issues, feel free untuk membuka GitHub issue atau mengh
 **Made with ❤️ by TechFlow Team**
 
 *Last Updated: November 2024*
+

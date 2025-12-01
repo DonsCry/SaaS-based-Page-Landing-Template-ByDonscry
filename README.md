@@ -20,7 +20,6 @@
 <!-- LICENSE -->
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/DonsCry/techflow-platform)](https://github.com/DonsCry/techflow-platform)
 [![Lighthouse](https://img.shields.io/badge/Lighthouse-95%2B-brightgreen)](https://developers.google.com/web/tools/lighthouse)
 [![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Ready-blue)]()
@@ -278,4 +277,5 @@ Jika ada pertanyaan atau issues, feel free untuk membuka GitHub issue atau mengh
 **Made with ❤️ by TechFlow Team**
 
 *Last Updated: November 2024*
+
 
